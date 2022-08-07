@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.d16d64ac.css",
+    "main.js": "/React-app/static/js/main.900149b8.js",
+    "static/js/787.8ec45bef.chunk.js": "/React-app/static/js/787.8ec45bef.chunk.js",
+    "static/media/SqlLogo.png": "/React-app/static/media/SqlLogo.85fb38d6773862e917f4.png",
+    "static/media/MongoDBLogo.png": "/React-app/static/media/MongoDBLogo.1df44ece8cf851cecf69.png",
+    "static/media/ReactLogo.png": "/React-app/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/TailwindLogo.png": "/React-app/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
+    "static/media/JsLogo.png": "/React-app/static/media/JsLogo.db393457bf6303d846d6.png",
+    "index.html": "/React-app/index.html",
+    "main.d16d64ac.css.map": "/React-app/static/css/main.d16d64ac.css.map",
+    "main.900149b8.js.map": "/React-app/static/js/main.900149b8.js.map",
+    "787.8ec45bef.chunk.js.map": "/React-app/static/js/787.8ec45bef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16d64ac.css",
+    "static/js/main.900149b8.js"
+  ]
+}
